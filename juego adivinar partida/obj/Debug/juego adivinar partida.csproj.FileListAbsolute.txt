@@ -1,0 +1,5 @@
+C:\Users\Mauricio M\Downloads\juego adivinar partida\juego adivinar partida\bin\Debug\juego adivinar partida.exe.config
+C:\Users\Mauricio M\Downloads\juego adivinar partida\juego adivinar partida\bin\Debug\juego adivinar partida.exe
+C:\Users\Mauricio M\Downloads\juego adivinar partida\juego adivinar partida\bin\Debug\juego adivinar partida.pdb
+C:\Users\Mauricio M\Downloads\juego adivinar partida\juego adivinar partida\obj\Debug\juego adivinar partida.exe
+C:\Users\Mauricio M\Downloads\juego adivinar partida\juego adivinar partida\obj\Debug\juego adivinar partida.pdb
